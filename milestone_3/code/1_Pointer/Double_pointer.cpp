@@ -10,7 +10,7 @@ void increment2(int **p)
     *p = *p + 1;
     cout << **p << endl;
 }
-void increment3(int **p)
+void increment3(int **p)// This is function
 {
     **p = **p + 1;
 }

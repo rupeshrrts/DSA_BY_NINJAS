@@ -23,7 +23,7 @@
     // cout<<ptr;
 
     // char ch = 'a';
-    // char *ptr = &ch;
+    // char *ptr = &ch; // this is somthing
     // ch=ch+2;
     // cout << *ptr << endl;
 
@@ -41,4 +41,4 @@
     // cout << s[0] << " " << p[0];
 
     
-}
+// }
