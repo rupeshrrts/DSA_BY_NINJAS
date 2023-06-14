@@ -83,7 +83,7 @@
 // 	}
 
 // 	int x;
-// 	cin >> x;
+// 	cin >> x; take a input
 
 // 	cout << binarySearch(input, n, x) << endl; 	
 

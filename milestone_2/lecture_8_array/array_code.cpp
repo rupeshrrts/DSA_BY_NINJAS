@@ -7,7 +7,7 @@
 //     // Take array input from the user
 
 //     int n;
-//     cin >> n;
+//     cin >> n; take a input
 
 //     int input[100];
 
