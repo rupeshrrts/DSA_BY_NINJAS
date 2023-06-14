@@ -12,7 +12,7 @@ int main(){
     p=p+2;
     cout<<p<<endl;
 
-    double d=102.3;
+    double d=102.3; //this is double
     double *dp=&d;
     cout<<dp<<endl;
     dp++;

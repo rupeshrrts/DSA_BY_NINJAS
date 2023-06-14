@@ -14,7 +14,7 @@ int main(){
     p=p+1;
     // a=a+1;// not applicabile in the case of array
     p=a+1;
-    cout<<a<<endl;
+    cout<<a<<endl; //this is output
     cout<<p<<endl;
 
 
@@ -28,7 +28,4 @@ int main(){
     // cout<< p <<endl;
 
     // int *p=a;
-    
-
-
 }
