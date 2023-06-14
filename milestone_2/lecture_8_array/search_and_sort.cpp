@@ -263,7 +263,7 @@
 // 	name[3] = 'd';
 // 	name[1] = '\0';
 // 	*/
-// 	cout << "Name : " << name << endl;
+// 	cout << "Name is : " << name << endl;
 
 // 	cout << "Length : " << length(name) << endl;
 
