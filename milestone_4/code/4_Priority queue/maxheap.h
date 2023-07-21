@@ -54,7 +54,7 @@ class PriorityQueue {
 		pq[0] = pq[pq.size() - 1];
 		pq.pop_back();
 
-		// down-heapify
+		// down-heapify min heap
 
 		int parentIndex = 0;
 		int leftChildIndex = 2 * parentIndex + 1;
